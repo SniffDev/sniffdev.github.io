@@ -25,7 +25,7 @@ NOTE:
 |[Deep Rock Galactic](https://store.steampowered.com/app/548430/Deep_Rock_Galactic/)                                  | Horde Shooter       | [29,99](https://steamdb.info/app/548430/)|
 |[Hot Lava](https://store.steampowered.com/app/382560/Hot_Lava/)                                                      | Platformer          | [16,79](https://steamdb.info/app/382560/)|
 |[Rhythm Doctor](https://store.steampowered.com/app/774181/Rhythm_Doctor/)                                            | Rhythm              | [13,29](https://steamdb.info/app/774181/)|
-|[Rec Room](https://store.steampowered.com/app/471710/Rec_Room/)|                                                      | Social              | Free!
+|[Rec Room](https://store.steampowered.com/app/471710/Rec_Room/)                                                      | Social              | Free!|
 |[Enter the Gungeon](https://store.steampowered.com/app/311690/Enter_the_Gungeon/)                                    | Roguelike           | [14,99](https://steamdb.info/app/311690/)|
 |[ULTRAKILL](https://store.steampowered.com/app/1229490/ULTRAKILL/)                                                   | Action/Shooter      | [20,99](https://steamdb.info/app/1229490/)|
 
