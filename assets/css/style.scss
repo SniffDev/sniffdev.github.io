@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ jekyll.theme.midnight.scss }}";
+@import "{{ site.theme }}";
 
 background-color: #202225
 body {
