@@ -11,9 +11,6 @@ NOTE:
 > Names link to the game's respective Steam store pages. Prices link to the respective price history on [SteamDB](https://steamdb.info/) for viewing discounts and sales.
 
 ---
-<details>
-<summary> Click to reveal list </summary>
-
 | Game                                                                                                                | Genre               | Price (€)
 | -                                                                                                                   | -                   | -
 |[Bug Fables: The Everlasting Sapling](https://store.steampowered.com/app/1082710/Bug_Fables_The_Everlasting_Sapling/)| JRPG                | [16,79](https://steamdb.info/app/1082710/)
@@ -31,6 +28,6 @@ NOTE:
 |[Rec Room](https://store.steampowered.com/app/471710/Rec_Room/)                                                      | Social              | Free!
 |[Enter the Gungeon](https://store.steampowered.com/app/311690/Enter_the_Gungeon/)                                    | Roguelike           | [14,99](https://steamdb.info/app/311690/)
 |[ULTRAKILL](https://store.steampowered.com/app/1229490/ULTRAKILL/)                                                   | Action/Shooter      | [20,99](https://steamdb.info/app/1229490/)
-</details>
 
-[To main page](/index.md)
+---
+[Back to main page](/index.md)
