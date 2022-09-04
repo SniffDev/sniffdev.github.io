@@ -11,8 +11,8 @@ NOTE:
 > Names link to the game's respective Steam store pages. Prices link to the respective price history on [SteamDB](https://steamdb.info/) for viewing discounts and sales.
 
 ---
-| Game     | Genre    | Price (€)
-|----------|----------|----------|
+| Game | Genre | Price (€) |
+| ---------- | ---------- | ---------- |
 |[Bug Fables: The Everlasting Sapling](https://store.steampowered.com/app/1082710/Bug_Fables_The_Everlasting_Sapling/)| JRPG                | [16,79](https://steamdb.info/app/1082710/)|
 |[Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/)                                            | Metroidvania        | [14,99](https://steamdb.info/app/367520/)|
 |[Celeste](https://store.steampowered.com/app/504230/Celeste/)                                                        | Puzzle Platformer   | [9,99](https://steamdb.info/app/504230/)|
