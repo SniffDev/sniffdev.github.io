@@ -1,7 +1,7 @@
 # Games you should try
 **Hi!**
 
-This is a hand-crafted list of my favorite games to date, **in no order in particular.** All games are available through **[Steam.](https://store.steampowered.com/)** I cannot guarantee they are available on other gaming platforms.
+This is a hand-crafted list of my favorite games to date, **in no particular order.** All games are available through **[Steam.](https://store.steampowered.com/)** I cannot guarantee they are available on other gaming platforms.
 
 All games are also decently priced, none costs much more than *around 20 USD$*, but there may be exceptions.
 
