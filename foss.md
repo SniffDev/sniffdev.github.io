@@ -1,5 +1,5 @@
 # Free, open-source apps you should use
-**This page is a work-in-progress, there are things that aren't done yet, and other things may be broken.
+**This page is a work-in-progress, there are things that aren't done yet, and other things may be broken.**
 
 **Hi!**
 
