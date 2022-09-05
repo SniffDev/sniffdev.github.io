@@ -12,7 +12,6 @@ NOTE:
 
 ---
 - [Bug Fables: The Everlasting Sapling](https://store.steampowered.com/app/1082710/Bug_Fables_The_Everlasting_Sapling/) - JRPG - [16,79](https://steamdb.info/app/1082710/)
-
 - [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/) - Metroidvania - [14,99](https://steamdb.info/app/367520/)
 - [Celeste](https://store.steampowered.com/app/504230/Celeste/) - Puzzle Platformer - [9,99](https://steamdb.info/app/504230/)
 - [PAYDAY 2](https://store.steampowered.com/app/218620/PAYDAY_2/) - Horde Shooter - [9,99](https://steamdb.info/app/218620/)
