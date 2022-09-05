@@ -59,7 +59,7 @@ If you'd like to contribute to any of these projects or download pre-release bui
 
  [Official site](https://www.gimp.org) / [VirusTotal link](https://www.virustotal.com/gui/url/4b2e49b4ba52939fadc91328b0d9680272c3cccb80bf8b11fbfee05b7cccd227)
 
- ![GIMP Logo](/assets/images/foss.md/gimplogo.md)
+ ![GIMP Logo](/assets/images/foss.md/gimplogo.png)
  
  </details>
 
