@@ -27,19 +27,25 @@ If you'd like to contribute to any of these projects or download pre-release bui
 
  **Brave** is a privacy-oriented browser with integrated **AdBlock** and **tracking blocking** by default, although you can enable things like *full Javascript blocking* on its settings. It has lots of customization and doesn't even require an **account!** It's also possible to import your bookmarked sites and settings from other browsers to make the switch easier. I use it on a daily basis and I think it's the best browser out there.
 
- Brave also features a **cryptocurrency** system based on viewing Brave-exclusive ads and paying the creators of your favorite sites back. I have it all disabled so I can't judge or praise it too much.
+ Brave also features a **cryptocurrency** system based on viewing Brave-exclusive ads and paying the creators of your favorite sites back. I have it all disabled so I can't judge or praise it too much though.
 
- **Newpipe**
+ **NewPipe**
 
  [Official site](https://newpipe.net) / [VirusTotal link](https://www.virustotal.com/gui/url/5c7d75da5ee1eb3357184a089a3ef490b43a6338dc88213b1f0d187bd0c68b5c)
 
  ![Newpipe Logo](/assets/images/foss.md/newpipelogo.png)
+
+ NewPipe is a YouTube front-end for **mobile devices** that completely strips ads from videos you watch, as well as preventing tracking from Google as much as possible. It's lightweight, faster than the official YouTube app, **doesn't require an account** and even supports other services like **Soundcloud**. It features things that would otherwise be locked behind a subscription service *(YouTube Premium)* like **playing in the background** and/or **without the screen being turned on**, as well as playing in a **pop-up window**.
+
+ NewPipe's subscriptions are also **completely local**. This means the channels you're "subscribed" to only serve the purpose of letting NewPipe fetch your video feed for you. Via this method, YouTube is unable to see and control what you do and consume as an user, compared to your real subscriptions on your Google account. It is possible to *import* your subscriptions from YouTube though, as well as create backups in NewPipe to *export* to other services. Read through their [documentation](https://newpipe.net/FAQ/tutorials/import-export-data/) to find out how.
 
  **FreeTube**
 
  [Official site](https://freetubeapp.io/) / [VirusTotal link **(1 false positive trigger)**](https://www.virustotal.com/gui/url/0dc3a35296948fd05eeff79e5519433de7d644a2c28dd29730c93b8e4071ea2a)
 
  ![FreeTube logo](/assets/images/foss.md/freetubelogo.png)
+
+ FreeTube is effectively NewPipe but for **desktop** environments. It features basically the same things (no ads/minimal tracking) but includes additional features, like **subscription profiles** and **fetching only audio streams** that suit the desktop PC environment much better than having YouTube open in a browser. As NewPipe does, the channels you subscribe to are stored **locally on your system** and are only used to create and update your video feed every time a creator you follow uploads new content.
 
 ---
 ## Creativity/Project Making
