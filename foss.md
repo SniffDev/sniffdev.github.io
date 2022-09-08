@@ -47,7 +47,7 @@ If you'd like to contribute to any of these projects or download pre-release bui
 
  FreeTube is effectively NewPipe but for **desktop** environments. It features basically the same things (no ads/minimal tracking) but includes additional features, like **subscription profiles** and **fetching only audio streams** that suit the desktop PC environment much better than having YouTube open in a browser. As NewPipe does, the channels you subscribe to are stored **locally on your system** and are only used to create and update your video feed every time a creator you follow uploads new content.
 
----
+ ---
 ## Creativity/Project Making
 
  **GIMP**
