@@ -8,7 +8,7 @@ This is a **hand-crafted** collection of *completely free*, open-source programs
 If you'd like to contribute to any of these projects or download pre-release builds to check out new features, check out my **[GitHub list](https://github.com/stars/SniffDev/lists/foss-you-should-use)** this webpage is based on!
 
 ---
-> ⚠ **Note:** ALL links have been manually verified to be genuine and a clean VirusTotal scan is attached alongside them.
+> ⚠ **Note:** ***ALL*** links have been manually verified to be genuine and a clean VirusTotal scan is attached alongside them.
 
 ---
 ## **Index:**
@@ -24,7 +24,7 @@ If you'd like to contribute to any of these projects or download pre-release bui
  [Official site](https://brave.com) / [VirusTotal link](https://www.virustotal.com/gui/url/9f119e082bdda57b4d98204db217fe50f001a5ee7e588a0f8cdd776d698865f5)
 
  ![Brave Logo](/assets/images/foss.md/bravelogo.png)
-
+ 
  **Brave** is a privacy-oriented browser with integrated **AdBlock** and **tracking blocking** by default, although you can enable things like *full Javascript blocking* on its settings. It has lots of customization and doesn't even require an **account!** It's also possible to import your bookmarked sites and settings from other browsers to make the switch easier. I use it on a daily basis and I think it's the best browser out there.
 
  Brave also features a **cryptocurrency** system based on viewing Brave-exclusive ads and paying the creators of your favorite sites back. I have it all disabled so I can't judge or praise it too much though.
@@ -35,7 +35,7 @@ If you'd like to contribute to any of these projects or download pre-release bui
 
  ![Newpipe Logo](/assets/images/foss.md/newpipelogo.png)
 
- NewPipe is a YouTube front-end for **mobile devices** that completely strips ads from videos you watch, as well as preventing tracking from Google as much as possible. It's lightweight, faster than the official YouTube app, **doesn't require an account** and even supports other services like **Soundcloud**. It features things that would otherwise be locked behind a subscription service *(YouTube Premium)* like **playing in the background** and/or **without the screen being turned on**, as well as playing in a **pop-up window**.
+ NewPipe is a **YouTube** front-end for **mobile devices** that completely strips ads from videos you watch, as well as preventing tracking from Google as much as possible. It's lightweight, faster than the official YouTube app, **doesn't require an account** and even supports other services like **Soundcloud**. It features things that would otherwise be locked behind a subscription service *(YouTube Premium)* like **playing in the background** and/or **without the screen being turned on**, as well as playing in a **pop-up window**.
 
  NewPipe's subscriptions are also **completely local**. This means the channels you're "subscribed" to only serve the purpose of letting NewPipe fetch your video feed for you. Via this method, YouTube is unable to see and control what you do and consume as an user, compared to your real subscriptions on your Google account. It is possible to *import* your subscriptions from YouTube though, as well as create backups in NewPipe to *export* to other services. Read through their [documentation](https://newpipe.net/FAQ/tutorials/import-export-data/) to find out how.
 
@@ -82,3 +82,6 @@ If you'd like to contribute to any of these projects or download pre-release bui
  [Official site](https://multimc.org) / [VirusTotal link](https://www.virustotal.com/gui/url/681a32f759b4e34e947f37a7e3e61f630f8978c7dc9821dd5bb6044a8ab6128b)
 
  ![MultiMC logo](/assets/images/foss.md/multimclogo.png)
+
+ ---
+ [Back to main page](/index.md)
