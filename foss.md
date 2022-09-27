@@ -35,9 +35,11 @@ If you'd like to contribute to any of these projects or download pre-release bui
 
  ![Newpipe Logo](/assets/images/foss.md/newpipelogo.png)
 
- NewPipe is a **YouTube** front-end for **mobile devices** that completely strips ads from videos you watch, as well as preventing tracking from Google as much as possible. It's lightweight, faster than the official YouTube app, **doesn't require an account** and even supports other services like **Soundcloud**. It features things that would otherwise be locked behind a subscription service *(YouTube Premium)* like **playing in the background** and/or **without the screen being turned on**, as well as playing in a **pop-up window**.
+ "**A libre lightweight streaming front-end for Android.**
 
- NewPipe's subscriptions are also **completely local**. This means the channels you're "subscribed" to only serve the purpose of letting NewPipe fetch your video feed for you. Via this method, YouTube is unable to see and control what you do and consume as an user, compared to your real subscriptions on your Google account. It is possible to *import* your subscriptions from YouTube though, as well as create backups in NewPipe to *export* to other services. Read through their [documentation](https://newpipe.net/FAQ/tutorials/import-export-data/) to find out how.
+ NewPipe works by fetching the required data from the official API (e.g. PeerTube) of the service you're using. If the official API is restricted (e.g. YouTube) for our purposes, or is proprietary, the app parses the website or uses an internal API instead. This means that you don't need an account on any service to use NewPipe.
+
+Also, since they are free and open source software, neither the app nor the Extractor use any proprietary libraries or frameworks, such as Google Play Services. This means you can use NewPipe on devices or custom ROMs that do not have Google apps installed."
 
  **FreeTube**
 
@@ -45,9 +47,11 @@ If you'd like to contribute to any of these projects or download pre-release bui
 
  ![FreeTube logo](/assets/images/foss.md/freetubelogo.png)
 
- FreeTube is effectively NewPipe but for **desktop** environments. It features basically the same things (no ads/minimal tracking) but includes additional features, like **subscription profiles** and **fetching only audio streams** that suit the desktop PC environment much better than having YouTube open in a browser. As NewPipe does, the channels you subscribe to are stored **locally on your system** and are only used to create and update your video feed every time a creator you follow uploads new content.
+ "FreeTube is an open source desktop YouTube player built with privacy in mind. Use YouTube without advertisements and prevent Google from tracking you with their cookies and JavaScript. Available for Windows, Mac & Linux thanks to Electron.
 
- ---
+Please note that FreeTube is currently in Beta. While it should work well for most users, there are still bugs and missing features that need to be addressed."
+
+---
 ## Creativity/Project Making
 
  **GIMP**
@@ -56,11 +60,19 @@ If you'd like to contribute to any of these projects or download pre-release bui
 
  ![GIMP Logo](/assets/images/foss.md/gimplogo.png)
 
+"**The Free & Open Source Image Editor**"
+
+"GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.
+
+Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins."
+
   **Olive**
 
  [Official site](https://www.olivevideoeditor.org) / [VirusTotal link](https://www.virustotal.com/gui/url/07241ca945d52fad0d5c2c80143189e900162d0a0930b0c635f877a69e1f2476)
 
  ![Olive logo](/assets/images/foss.md/olivelogo.png)
+
+ "Olive is a free non-linear video editor for Windows, macOS, and Linux."
 
   **Krita**
 
@@ -68,13 +80,17 @@ If you'd like to contribute to any of these projects or download pre-release bui
 
  ![Krita logo](/assets/images/foss.md/kritalogo.png)
 
+ "Krita is a free and open source digital painting application. It is for artists who want to create professional work from start to end. Krita is used by comic book artists, illustrators, concept artists, matte and texture painters and in the digital VFX industry."
+
   **Audacity**
 
  [Official site](https://www.audacityteam.org) / [VirusTotal link](https://www.virustotal.com/gui/url/d130cc2e9c59f88a59b06dd2543b5d4f9672cb59264b19a13a02b305731940c2)
 
  ![Audacity logo](/assets/images/foss.md/audacitylogo.png)
 
- ---
+ "Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Audacity is open source software licensed under GPL, version 2 or later."
+
+---
 ## Games
 
  **MultiMC**
@@ -83,5 +99,6 @@ If you'd like to contribute to any of these projects or download pre-release bui
 
  ![MultiMC logo](/assets/images/foss.md/multimclogo.png)
 
+ "MultiMC is an alternative launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface."
  ---
  [Back to main page](/index.md)
