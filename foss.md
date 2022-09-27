@@ -2,7 +2,7 @@
 
 **Hi!**
 
-This is a collection of *completely free, open-source* programs I think could be useful to most users, **in no particular order.** Some of these apps, that make use of other proprietary services, are also **privacy-focused**, do their best to keep you as *anonymous* as possible when using them, as well as completely removing **advertising** in the process.
+This is a collection of *completely free, open-source* programs I think could be useful to most users, **in no particular order.** Some of these apps, that make use of other proprietary services, do their best to keep you as *anonymous* as possible when using them, as well as completely removing **advertising** in the process.
 
 *Unless otherwise specified, all of these programs are **only** designed for desktop environments.*
 
