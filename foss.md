@@ -99,6 +99,7 @@ Whether you are a graphic designer, photographer, illustrator, or scientist, GIM
 
  ![MultiMC logo](/assets/images/foss.md/multimclogo.png)
 
- "MultiMC is an alternative launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface."
- ---
+"MultiMC is an alternative launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface."
+
+---
  [Back to main page](/index.md)
