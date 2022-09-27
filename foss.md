@@ -27,7 +27,7 @@ If you'd like to contribute to any of these projects or download pre-release bui
 
  [Official site](https://brave.com) / [VirusTotal link](https://www.virustotal.com/gui/url/9f119e082bdda57b4d98204db217fe50f001a5ee7e588a0f8cdd776d698865f5)
 
- ![Brave Logo](/assets/images/foss.md/bravelogo.png)
+ ![Brave Logo](/assets/images/foss/bravelogo.png)
  
  The internet is a sea of ads, hackers, and echo chambers. Big Tech makes huge profits off our data, and tells us what’s true and what’s not. Brave is fighting back.
 
@@ -44,7 +44,7 @@ If you'd like to contribute to any of these projects or download pre-release bui
 
  [Official site](https://newpipe.net) / [VirusTotal link](https://www.virustotal.com/gui/url/5c7d75da5ee1eb3357184a089a3ef490b43a6338dc88213b1f0d187bd0c68b5c)
 
- ![Newpipe Logo](/assets/images/foss.md/newpipelogo.png)
+ ![Newpipe Logo](/assets/images/foss/newpipelogo.png)
 
  "**A libre lightweight streaming front-end for Android.**"
 
@@ -56,7 +56,7 @@ Also, since they are free and open source software, neither the app nor the Extr
 
  [Official site](https://freetubeapp.io/) / [VirusTotal link **(1 false positive trigger)**](https://www.virustotal.com/gui/url/0dc3a35296948fd05eeff79e5519433de7d644a2c28dd29730c93b8e4071ea2a)
 
- ![FreeTube logo](/assets/images/foss.md/freetubelogo.png)
+ ![FreeTube logo](/assets/images/foss/freetubelogo.png)
 
  "FreeTube is an open source desktop YouTube player built with privacy in mind. Use YouTube without advertisements and prevent Google from tracking you with their cookies and JavaScript. Available for Windows, Mac & Linux thanks to Electron.
 
@@ -71,7 +71,7 @@ Also, since they are free and open source software, neither the app nor the Extr
 
   [Official site](https://getaegis.app/) / [VirusTotal link](https://www.virustotal.com/gui/url/8fd2f96ae8fe4cdf84f894c6706fe1f005894a5b2cda4dcba5cd4bf21059dab6)
 
-  ![Aegis Logo](/assets/images/foss.md/aegislogo.png)
+  ![Aegis Logo](/assets/images/foss/aegislogo.png)
 
   "**Aegis Authenticator** is a free, secure and open source 2FA app for Android. It aims to provide a secure authenticator for your online services, while also including some features missing in existing authenticator apps, like proper encryption and backups. Aegis supports HOTP and TOTP, making it compatible with thousands of services."
 
@@ -82,7 +82,7 @@ Also, since they are free and open source software, neither the app nor the Extr
 
  [Official site](https://anysoftkeyboard.github.io/) / [VirusTotal link](https://www.virustotal.com/gui/url/6921efabb6c40236c7600425436a1d3707216a364442eefbb69a76c7cbcd92b4)
 
- ![ASK Logo](/assets/images/foss.md/asklogo.png)
+ ![ASK Logo](/assets/images/foss/asklogo.png)
 
  "Any Soft Keyboard is an open-source, on-screen keyboard with multiple languages support with an emphasis on privacy.
 This is one of the most customizable keyboards available."
@@ -94,7 +94,7 @@ This is one of the most customizable keyboards available."
 
  [Official site](https://www.gimp.org) / [VirusTotal link](https://www.virustotal.com/gui/url/4b2e49b4ba52939fadc91328b0d9680272c3cccb80bf8b11fbfee05b7cccd227)
 
- ![GIMP Logo](/assets/images/foss.md/gimplogo.png)
+ ![GIMP Logo](/assets/images/foss/gimplogo.png)
 
  "**The Free & Open Source Image Editor**"
 
@@ -106,7 +106,7 @@ This is one of the most customizable keyboards available."
 
  [Official site](https://www.olivevideoeditor.org) / [VirusTotal link](https://www.virustotal.com/gui/url/07241ca945d52fad0d5c2c80143189e900162d0a0930b0c635f877a69e1f2476)
 
- ![Olive logo](/assets/images/foss.md/olivelogo.png)
+ ![Olive logo](/assets/images/foss/olivelogo.png)
 
  "Olive is a free non-linear video editor for Windows, macOS, and Linux."
 
@@ -114,7 +114,7 @@ This is one of the most customizable keyboards available."
 
  [Official site](https://krita.org) / [VirusTotal link](https://www.virustotal.com/gui/url/eac6aaf5ae564bc704b568041d36ec94d1c088a85ae0aa5c2bca90c22e355c79)
 
- ![Krita logo](/assets/images/foss.md/kritalogo.png)
+ ![Krita logo](/assets/images/foss/kritalogo.png)
 
  "Krita is a free and open source digital painting application. It is for artists who want to create professional work from start to end. Krita is used by comic book artists, illustrators, concept artists, matte and texture painters and in the digital VFX industry."
 
@@ -122,7 +122,7 @@ This is one of the most customizable keyboards available."
 
  [Official site](https://www.audacityteam.org) / [VirusTotal link](https://www.virustotal.com/gui/url/d130cc2e9c59f88a59b06dd2543b5d4f9672cb59264b19a13a02b305731940c2)
 
- ![Audacity logo](/assets/images/foss.md/audacitylogo.png)
+ ![Audacity logo](/assets/images/foss/audacitylogo.png)
 
  "Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Audacity is open source software licensed under GPL, version 2 or later."
 
@@ -133,7 +133,7 @@ This is one of the most customizable keyboards available."
 
  [Official site](https://multimc.org) / [VirusTotal link](https://www.virustotal.com/gui/url/681a32f759b4e34e947f37a7e3e61f630f8978c7dc9821dd5bb6044a8ab6128b)
 
- ![MultiMC logo](/assets/images/foss.md/multimclogo.png)
+ ![MultiMC logo](/assets/images/foss/multimclogo.png)
 
  "MultiMC is an alternative launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface."
 
