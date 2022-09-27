@@ -31,9 +31,9 @@ If you'd like to contribute to any of these projects or download pre-release bui
  
  The internet is a sea of ads, hackers, and echo chambers. Big Tech makes huge profits off our data, and tells us what’s true and what’s not. Brave is fighting back.
 
- Brave is on a mission to protect your privacy online. We make a suite of internet privacy tools—including our browser and search engine—that shield you from the ads, trackers, and other creepy stuff trying to follow you across the web.
+ Brave is on a mission to protect your privacy online. We make a suite of internet privacy tools—including our **browser** and **search engine**—that shield you from the ads, trackers, and other creepy stuff trying to follow you across the web.
 
- 50 million people have already switched to Brave for a faster, more private web. Hundreds of thousands more sign up every day. It only takes 60 seconds to switch.
+ 50 million people have already switched to Brave for a faster, more private web. Hundreds of thousands more sign up every day. **It only takes 60 seconds to switch**.
 
  *Think switching is a hassle? It’s not. With Brave, you can easily import bookmarks, extensions, even saved passwords from your old browser. It’s just one click in onboarding. Or download and **import later**.*
 
