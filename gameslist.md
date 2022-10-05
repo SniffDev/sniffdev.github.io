@@ -15,7 +15,7 @@ NOTE:
 
 [Bug Fables: The Everlasting Sapling](https://store.steampowered.com/app/1082710/Bug_Fables_The_Everlasting_Sapling/)
   
-  ![BFTES](/assets/images/gameslist.md/bftes.png)
+  ![BFTES](/assets/images/gameslist/bftes.png)
 
   "**Bug Fables: The Everlasting Sapling** is an adventure-RPG following three heroes, Vi, Kabbu, and Leif, as they embark on an epic quest in Bugaria in search of The Everlasting Sapling, a treasure that can grant immortality! Bug Fables combines colorful platforming with the heroes' unique abilities as they explore a wide variety of areas in the kingdom. Turn-based battles make use of Action Commands that can power up your attacks!"
 
@@ -24,7 +24,7 @@ NOTE:
 ---
 [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/)
 
-  ![HK](/assets/images/gameslist.md/hk.png)
+  ![HK](/assets/images/gameslist/hk.png)
 
   "Beneath the fading town of Dirtmouth sleeps an ancient, ruined kingdom. Many are drawn below the surface, searching for riches, or glory, or answers to old secrets.
 
@@ -35,7 +35,7 @@ NOTE:
 ---
 [Celeste](https://store.steampowered.com/app/504230/Celeste/)
   
- ![CEL](/assets/images/gameslist.md/cel.png)
+ ![CEL](/assets/images/gameslist/cel.png)
 
  "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight, hand-crafted platformer from the creators of multiplayer classic TowerFall."
 
@@ -44,7 +44,7 @@ NOTE:
 ---
 [PAYDAY 2](https://store.steampowered.com/app/218620/PAYDAY_2/)
 
- ![PD2](/assets/images/gameslist.md/pd2.png)
+ ![PD2](/assets/images/gameslist/pd2.png)
 
  "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree.
 
@@ -55,7 +55,7 @@ The CRIMENET network offers a huge range of dynamic contracts, and players are f
 ---
 [Undertale](https://store.steampowered.com/app/391540/Undertale/)
 
- ![UT](/assets/images/gameslist.md/ut.png)
+ ![UT](/assets/images/gameslist/ut.png)
 
  "Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters. Now you must find your way out... or stay trapped forever. [...] Killing is unnecessary: negotiate out of danger using the unique battle system.
 
@@ -66,7 +66,7 @@ The CRIMENET network offers a huge range of dynamic contracts, and players are f
 ---
 [DELTARUNE (Demo)](https://store.steampowered.com/app/1671210/DELTARUNE/)
 
-![DR](/assets/images/gameslist.md/dr.png)
+![DR](/assets/images/gameslist/dr.png)
 
 "Fight (or spare) alongside new characters in **UNDERTALE**'s parallel story, **DELTARUNE**...!
 
@@ -82,7 +82,7 @@ The CRIMENET network offers a huge range of dynamic contracts, and players are f
 ---
 [Spin Rhythm XD](https://store.steampowered.com/app/1058830/Spin_Rhythm_XD/) 
 
-![SRXD](/assets/images/gameslist.md/srxd.png)
+![SRXD](/assets/images/gameslist/srxd.png)
 
 "Spin Rhythm XD is an electronic music rhythm game with fluid, analogue-inspired controls and fully hand-made levels."
 
@@ -91,7 +91,7 @@ Price: [17,99€](https://steamdb.info/app/1058830/)
 ---
 [Furi](https://store.steampowered.com/app/423230/Furi/)
 
-![FURI](/assets/images/gameslist.md/furi.png)
+![FURI](/assets/images/gameslist/furi.png)
 
 "You were captured. Look what they’ve done to you… The jailer is the key, kill him and you’ll be free.
 
@@ -102,7 +102,7 @@ Price: [19,99€](https://steamdb.info/app/423230/)
 ---
 [Just Shapes & Beats](https://store.steampowered.com/app/531510/Just_Shapes__Beats/)
 
-![JSAB](/assets/images/gameslist.md/jsab.png)
+![JSAB](/assets/images/gameslist/jsab.png)
 
 ""Just Shapes & Beats" is a chaotic co-op musical bullet-hell based on three simple things: avoid Shapes, move to the kick-ass Beats, and die, repeatedly. It’s a new spin on the SHMUP genre, adding a layer of cooperation that’s at the core of the game: because everything is better with friends. Play alone or with up to four players, local or online, through the game’s Story Mode or Challenge Runs.
 
@@ -115,7 +115,7 @@ Price: [16,79€](https://steamdb.info/app/531510/)
 ---
 [Deep Rock Galactic](https://store.steampowered.com/app/548430/Deep_Rock_Galactic/)
 
-![DRG](/assets/images/gameslist.md/drg.png)
+![DRG](/assets/images/gameslist/drg.png)
 
 "Deep Rock Galactic is a 1-4 player co-op FPS featuring badass space Dwarves, 100% destructible environments, procedurally-generated caves, and endless hordes of alien monsters.
 
@@ -126,7 +126,7 @@ Price: [29,99€](https://steamdb.info/app/548430/)
 ---
 [Hot Lava](https://store.steampowered.com/app/382560/Hot_Lava/)
 
-![HL](/assets/images/gameslist.md/hl.png)
+![HL](/assets/images/gameslist/hl.png)
 
 "Hot Lava transports you back to your childhood imagination. Relive those moments of excitement, joy, and chaos. Run, jump, climb, and surf in first person across nostalgia-packed environments flooded with hot molten lava. Explore alone, or join your friends. This is a game of dexterity and ingenuity, you will have to use all your skills to complete the treacherous obstacles that await.
 
@@ -137,7 +137,7 @@ Price: [16,79€](https://steamdb.info/app/382560/)
 ---
 [Rhythm Doctor](https://store.steampowered.com/app/774181/Rhythm_Doctor/)
 
-![RD](/assets/images/gameslist.md/rd.png)
+![RD](/assets/images/gameslist/rd.png)
 
 [**Disclaimer for Mac users**](https://www.notion.so/RD-Technical-Problems-FAQ-fe2aec8dc5f24446ae079d135d7b81d6#9aff0fd925a6417e8402af70b65e4936)
 
@@ -150,7 +150,7 @@ Price: [13,29€](https://steamdb.info/app/774181/)
 ---
 [Rec Room](https://store.steampowered.com/app/471710/Rec_Room/)
 
-![RR](/assets/images/gameslist.md/rr.png)
+![RR](/assets/images/gameslist/rr.png)
 
 "Rec Room is the best place to build and play games together. Party up with friends from all around the world to chat, hang out, explore MILLIONS of player-created rooms, or build something new and amazing to share with us all.
 
@@ -159,7 +159,7 @@ Rec Room is free, and cross plays on everything from phones to VR headsets. It�
 ---
 [Enter the Gungeon](https://store.steampowered.com/app/311690/Enter_the_Gungeon/)
 
-![ETG](/assets/images/gameslist.md/etg.png)
+![ETG](/assets/images/gameslist/etg.png)
 
 "Enter the Gungeon is a bullet hell dungeon crawler following a band of misfits seeking to shoot, loot, dodge roll and table-flip their way to personal absolution by reaching the legendary Gungeon’s ultimate treasure: the gun that can kill the past. Select a hero [or team up in co-op] and battle your way to the bottom of the Gungeon by surviving a challenging and evolving series of floors filled with the dangerously adorable Gundead and fearsome Gungeon bosses armed to the teeth. Gather precious loot, discover hidden secrets, and chat with opportunistic merchants and shopkeepers to purchase powerful items to gain an edge."
 
@@ -168,7 +168,7 @@ Price: [14,99€](https://steamdb.info/app/311690/)
 ---
 [ULTRAKILL](https://store.steampowered.com/app/1229490/ULTRAKILL/)
 
-![UK](/assets/images/gameslist.md/uk.png)
+![UK](/assets/images/gameslist/uk.png)
 
 "***ULTRAKILL*** is a fast-paced ultraviolent old school FPS that fuses together classic shooters like *Quake*, modern shooters like *Doom (2016)* and character action games like *Devil May Cry*.
 
