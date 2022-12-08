@@ -18,7 +18,7 @@ If you'd like to contribute to any of these projects or download pre-release bui
 - [Games](#games)
   
 ---
-## Internet/Internet Services
+# Internet/Internet Services
 
  ### Brave Browser
 
@@ -36,7 +36,7 @@ If you'd like to contribute to any of these projects or download pre-release bui
 
  *Think switching is a hassle? It’s not. With Brave, you can easily import bookmarks, extensions, even saved passwords from your old browser. It’s just one click in onboarding. Or download and **import later**.*"
 
-
+---
  ### NewPipe
 
  <sub>***Only available for mobile devices.***</sub>
@@ -51,6 +51,7 @@ If you'd like to contribute to any of these projects or download pre-release bui
 
 Also, since they are free and open source software, neither the app nor the Extractor use any proprietary libraries or frameworks, such as Google Play Services. This means you can use NewPipe on devices or custom ROMs that do not have Google apps installed."
 
+---
  ### FreeTube
 
  [Official site](https://freetubeapp.io/) / [VirusTotal link **(1 false positive trigger)**](https://www.virustotal.com/gui/url/0dc3a35296948fd05eeff79e5519433de7d644a2c28dd29730c93b8e4071ea2a)
@@ -62,7 +63,7 @@ Also, since they are free and open source software, neither the app nor the Extr
 **Please note that FreeTube is currently in Beta**. While it should work well for most users, there are still bugs and missing features that need to be addressed."
 
 ---
-## General Utility
+# General Utility
 
   ### Aegis Authenticator
 
@@ -74,7 +75,7 @@ Also, since they are free and open source software, neither the app nor the Extr
 
   "**Aegis Authenticator** is a free, secure and open source 2FA app for Android. It aims to provide a secure authenticator for your online services, while also including some features missing in existing authenticator apps, like proper encryption and backups. Aegis supports HOTP and TOTP, making it compatible with thousands of services."
 
-
+---
  ### AnySoftKeyboard
 
  <sub>***Only available for mobile devices.***</sub>
@@ -87,7 +88,7 @@ Also, since they are free and open source software, neither the app nor the Extr
 This is one of the most customizable keyboards available."
 
 ---
-## Creativity/Project Making
+# Creativity/Project Making
 
  ### GIMP
 
@@ -101,6 +102,7 @@ This is one of the most customizable keyboards available."
 
  Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization  options and 3rd party plugins."
 
+---
  ### Olive
 
  [Official site](https://www.olivevideoeditor.org) / [VirusTotal link](https://www.virustotal.com/gui/url/07241ca945d52fad0d5c2c80143189e900162d0a0930b0c635f877a69e1f2476)
@@ -109,6 +111,7 @@ This is one of the most customizable keyboards available."
 
  "Olive is a free non-linear video editor for Windows, macOS, and Linux."
 
+---
   ### Krita
 
  [Official site](https://krita.org) / [VirusTotal link](https://www.virustotal.com/gui/url/eac6aaf5ae564bc704b568041d36ec94d1c088a85ae0aa5c2bca90c22e355c79)
@@ -117,6 +120,7 @@ This is one of the most customizable keyboards available."
 
  "Krita is a free and open source digital painting application. It is for artists who want to create professional work from start to end. Krita is used by comic book artists, illustrators, concept artists, matte and texture painters and in the digital VFX industry."
 
+---
   ### Audacity
 
  [Official site](https://www.audacityteam.org) / [VirusTotal link](https://www.virustotal.com/gui/url/d130cc2e9c59f88a59b06dd2543b5d4f9672cb59264b19a13a02b305731940c2)
@@ -126,7 +130,7 @@ This is one of the most customizable keyboards available."
  "Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Audacity is open source software licensed under GPL, version 2 or later."
 
 ---
-## Games
+# Games
 
  ### MultiMC
 
